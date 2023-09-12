@@ -1,30 +1,28 @@
 const fs = require('fs');
-
-async function generateReadme() {
-
-  // 读取文件目录
-  const files = fs.readdirSync('.');
-
-  let markdown = '';
-
-  // 过滤掉.git .github目录
-  files.filter(file => {
-    return !(file === '.git' || file === 'github'); 
-  });
-
-  // 生成每个文件/文件夹的Markdown链接
-  for(let file of files) {
-    if(file === '.git' || file === 'github') continue;
-    
-    let link = `- [${file}](./${file})`;
-    markdown += `\\n${link}`;
-  }
-
-  // 写入README
-  fs.writeFileSync('README.md', markdown);
-
-  console.log('README generated');
-
+let markdown = '';
+function generateReadme(dir = '.', lv = 2) {
+    const files = fs.readdirSync(dir);
+    // 递归遍历目录
+    files.forEach(file => {
+        const filePath = `${dir}/${file}`;
+        const stat = fs.statSync(filePath);
+        const isDir = stat && stat.isDirectory()
+        if (isDir) {
+            if (filePath === "./.git" || filePath === "./.github") { // 忽略.git .github文件夹
+                return;
+            }
+            markdown += `${'#'.repeat(lv)} ${filePath.slice(2)}\n`;
+            generateReadme(`${filePath}`, lv + 1);
+        } else {
+            if (dir === '.') { // 忽略根目录下文件
+                return;
+            }
+            markdown += `- [${file}](${filePath})\n`;
+        }
+    });
 }
 
 generateReadme();
+fs.writeFileSync('README.md', markdown);
+
+console.log('README generated');
