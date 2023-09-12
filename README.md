@@ -1,1 +1,6 @@
-\n- [.github](./.github)\n- [CMU](./CMU)\n- [Missing Semester IAP 2020](./Missing Semester IAP 2020)\n- [README.md](./README.md)\n- [Stanford](./Stanford)\n- [action.js](./action.js)
+## CMU
+- [15_418.md](./CMU/15_418.md)
+## Missing Semester IAP 2020
+- [lecture.md](./Missing Semester IAP 2020/lecture.md)
+## Stanford
+- [CS110.md](./Stanford/CS110.md)
