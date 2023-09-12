@@ -4,7 +4,7 @@ const path = require('path');
 //过滤不需要的文件和目录
 function filterFiles(files) {
   return files.filter(file => {
-    return file !== '.git' && file !== '.github'; 
+    return file !== '.git' || file !== '.github'; 
   });
 }
 
