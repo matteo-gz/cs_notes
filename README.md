@@ -1,5 +1,5 @@
 ## CMU
-- [15_418_Parallel_Computer_{Architecture_and_Programming_2016_SP.md](./CMU/15_418_Parallel_Computer_{Architecture_and_Programming_2016_SP.md)
+- [15_418_Parallel_Computer_Architecture_and_Programming_2016_SP.md](./CMU/15_418_Parallel_Computer_Architecture_and_Programming_2016_SP.md)
 ## MIT
 - [Missing_Semester_IAP_2020.md](./MIT/Missing_Semester_IAP_2020.md)
 ## Stanford
