@@ -7,6 +7,7 @@
 - [Sequence Models  Course 5 of the Deep Learning Specialization](./DeepLearning_AI/Sequence_Models__Course_5_of_the_Deep_Learning_Specialization.md)
 - [Structuring Machine Learning Projects  Course 3 of the Deep Learning Specialization](./DeepLearning_AI/Structuring_Machine_Learning_Projects__Course_3_of_the_Deep_Learning_Specialization.md)
 ## MIT
+- [18 06  Linear Algebra  Spring 2005](./MIT/18_06__Linear_Algebra__Spring_2005.md)
 - [Missing Semester IAP 2020](./MIT/Missing_Semester_IAP_2020.md)
 ## Stanford
 - [CS110 Principles of Computer Systems Spring 2019](./Stanford/CS110_Principles_of_Computer_Systems_Spring_2019.md)
