@@ -11,5 +11,5 @@
 - [Missing Semester IAP 2020](./MIT/Missing_Semester_IAP_2020.md)
 ## Stanford
 - [CS110 Principles of Computer Systems Spring 2019](./Stanford/CS110_Principles_of_Computer_Systems_Spring_2019.md)
-- [CS231n](./Stanford/CS231n.md)
+- [CS231n Convolutional Neural Networks for Visual Recognition](./Stanford/CS231n_Convolutional_Neural_Networks_for_Visual_Recognition.md)
 - [Stanford CS224N Natural Language Processing with Deep Learning  Winter 2021](./Stanford/Stanford_CS224N_Natural_Language_Processing_with_Deep_Learning__Winter_2021.md)
