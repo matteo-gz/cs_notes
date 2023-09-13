@@ -1,6 +1,5 @@
-video:https://www.youtube.com/playlist?list=PLkDaE6sCZn6E7jZ9sN_xHwSHOdjUxUW_b
-
-Structuring Machine Learning Projects (Course 3 of the Deep Learning Specialization)
+- Structuring Machine Learning Projects (Course 3 of the Deep Learning Specialization)
+- https://www.youtube.com/playlist?list=PLkDaE6sCZn6E7jZ9sN_xHwSHOdjUxUW_b
 
 # 1. Improving Model Performance (C3W1L01)
 

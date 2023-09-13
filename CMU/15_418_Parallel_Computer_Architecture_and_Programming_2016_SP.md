@@ -1,6 +1,6 @@
-video: https://www.youtube.com/playlist?list=PLMDSb3PWPnvivPLXHM9SlZLljrO9unIAW
+- CMU 15-418＼618 Parallel Computer Architecture and Programming 2016 SP
+- https://www.youtube.com/playlist?list=PLMDSb3PWPnvivPLXHM9SlZLljrO9unIAW
 
-CMU 15-418＼618 Parallel Computer Architecture and Programming 2016 SP
 ## 01 Why Parallelism Why Efficiency
 
 ## 02 A Modern Multi Core Processor

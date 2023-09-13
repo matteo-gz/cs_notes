@@ -1,6 +1,5 @@
-https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8
-
-MIT 18.06 Linear Algebra, Spring 2005
+- MIT 18.06 Linear Algebra, Spring 2005
+- https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8
 
 # An Interview with Gilbert Strang on Teaching Linear Algebra
 

@@ -1,6 +1,6 @@
-video:https://www.youtube.com/playlist?list=PLu77E6J7s6Ko3Ft4XcOX1yKW6iX3eEFqS
+- Stanford CS110: Principles of Computer Systems - Spring 2019
+- https://www.youtube.com/playlist?list=PLu77E6J7s6Ko3Ft4XcOX1yKW6iX3eEFqS
 
-Stanford CS110: Principles of Computer Systems - Spring 2019
 ## 1 Introduction
 
 #### 课程概况

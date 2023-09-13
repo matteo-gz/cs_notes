@@ -1,4 +1,5 @@
-video : https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J
+- Missing Semester IAP 2020
+- https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J 
 
 ## 1 Course Overview + The Shell
 #### 计算机工具高效利用

@@ -1,6 +1,5 @@
-https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk
-
-Stanford University CS231n, Spring 2017
+- Stanford University CS231n, Spring 2017
+- https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk
 
 # 1. Lecture 1 | Introduction to Convolutional Neural Networks for Visual Recognition
 

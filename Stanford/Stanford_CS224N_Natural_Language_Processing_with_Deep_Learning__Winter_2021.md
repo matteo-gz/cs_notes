@@ -1,6 +1,5 @@
-stanford CS224N: Natural Language Processing with Deep Learning | Winter 2021 
-
-https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ
+- stanford CS224N: Natural Language Processing with Deep Learning | Winter 2021
+- https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ
 
 # 1. Stanford CS224N: NLP with Deep Learning | Winter 2021 | Lecture 1 - Intro & Word Vectors
 

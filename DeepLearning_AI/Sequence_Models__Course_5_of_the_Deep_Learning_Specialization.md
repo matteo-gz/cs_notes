@@ -1,6 +1,5 @@
- Sequence Models (Course 5 of the Deep Learning Specialization)
-
- https://www.youtube.com/playlist?list=PLkDaE6sCZn6F6wUI9tvS_Gw1vaFAx6rd6
+- Sequence Models (Course 5 of the Deep Learning Specialization)
+- https://www.youtube.com/playlist?list=PLkDaE6sCZn6F6wUI9tvS_Gw1vaFAx6rd6
 
 # 1. C5W3L01 Basic Models
 

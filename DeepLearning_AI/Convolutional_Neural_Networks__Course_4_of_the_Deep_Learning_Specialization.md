@@ -1,6 +1,5 @@
-https://www.youtube.com/playlist?list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF
-
-Convolutional Neural Networks (Course 4 of the Deep Learning Specialization)
+- Convolutional Neural Networks (Course 4 of the Deep Learning Specialization)
+- https://www.youtube.com/playlist?list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF
 
 # 1. C4W1L01 Computer Vision
 

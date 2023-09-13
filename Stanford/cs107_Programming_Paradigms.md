@@ -1,3 +1,5 @@
+- Programming Paradigms (CS107)
+- https://www.youtube.com/playlist?list=PLpZDsLjaLGrFJP8tjkJ3J_BK2hxwmE_Q7
 # 1. Lecture 1 | Programming Paradigms (Stanford)
 
 ## C语言
