@@ -17,7 +17,7 @@ function generateReadme(dir = '.', lv = 2) {
             if (dir === '.') { // 忽略根目录下文件
                 return;
             }
-            markdown += `- [${file}](${filePath})\n`;
+            markdown += `- [${file.split('_').join(' ')}](${filePath})\n`;
         }
     });
 }
