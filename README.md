@@ -14,3 +14,4 @@
 - [Stanford CS224N Natural Language Processing with Deep Learning  Winter 2021](./Stanford/Stanford_CS224N_Natural_Language_Processing_with_Deep_Learning__Winter_2021.md)
 ## _layouts
 - [default](./_layouts/default.html)
+- [pages](./_layouts/pages.html)
