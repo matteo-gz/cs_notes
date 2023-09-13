@@ -1,5 +1,5 @@
 const fs = require('fs');
-let markdown = '';
+let markdown = ''; //
 function generateReadme(dir = '.', lv = 2) {
     const files = fs.readdirSync(dir);
     // 递归遍历目录
