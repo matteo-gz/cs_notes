@@ -15,3 +15,4 @@
 ## _layouts
 - [default](./_layouts/default.html)
 - [pages](./_layouts/pages.html)
+- [posts](./_layouts/posts.html)
