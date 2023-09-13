@@ -865,7 +865,7 @@ $$u(t)=c_1e^{0t}\begin{bmatrix}1\\2\end{bmatrix}+c_2e^{-3t}\begin{bmatrix}1\\-1\
 
 其中,$c_1$和$c_2$通过初值条件求得。
 
-这里给出初值条件$`u(0)=\\begin{bmatrix}1\\0\\end{bmatrix}`$,则得:
+这里给出初值条件$`u(0)=\begin{bmatrix}1\\0\end{bmatrix}`$,则得:
 
 $$c_1=1,\\ c_2=0$$
 
