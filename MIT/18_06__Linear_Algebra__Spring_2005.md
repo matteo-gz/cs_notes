@@ -1,3 +1,7 @@
+https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8
+
+MIT 18.06 Linear Algebra, Spring 2005
+
 # An Interview with Gilbert Strang on Teaching Linear Algebra
 
 ## Strang的视频观众数量众多
