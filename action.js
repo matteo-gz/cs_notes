@@ -1,5 +1,6 @@
 const fs = require('fs');
 let markdown = ''; //
+const prefixPattern = /^(\.|_)(\w+)/;
 function generateReadme(dir = '.', lv = 2) {
     const files = fs.readdirSync(dir);
     // 递归遍历目录
@@ -8,7 +9,7 @@ function generateReadme(dir = '.', lv = 2) {
         const stat = fs.statSync(filePath);
         const isDir = stat && stat.isDirectory()
         if (isDir) {
-            if (filePath === "./.git" || filePath === "./.github"|| filePath ==="_layouts") { // 忽略.git .github文件夹
+            if ( prefixPattern.test(filePath.slice(2))) { // 忽略.git .github文件夹
                 return;
             }
             markdown += `${'#'.repeat(lv)} ${filePath.slice(2)}\n`;
