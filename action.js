@@ -1,5 +1,5 @@
 const fs = require('fs');
-let markdown = ''; //
+let markdown = '# Computer Science notes\n'; //
 const prefixPattern = /^(\.|_)(\w+)/;
 function generateReadme(dir = '.', lv = 2) {
     const files = fs.readdirSync(dir);
@@ -12,7 +12,7 @@ function generateReadme(dir = '.', lv = 2) {
             if ( prefixPattern.test(filePath.slice(2))) { // 忽略.git .github文件夹
                 return;
             }
-            markdown += `${'#'.repeat(lv)} ${filePath.slice(2)}\n`;
+            markdown += `\n${'#'.repeat(lv)} ${file}\n\n`;
             generateReadme(`${filePath}`, lv + 1);
         } else {
             if (dir === '.') { // 忽略根目录下文件

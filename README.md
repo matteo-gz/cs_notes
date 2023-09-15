@@ -1,18 +1,34 @@
+# Computer Science notes
+
 ## CMU
+
 - [15 418 Parallel Computer Architecture and Programming 2016 SP](./CMU/15_418_Parallel_Computer_Architecture_and_Programming_2016_SP.md)
+
+## CrashCourse
+
+- [Computer Science](./CrashCourse/Computer_Science.md)
+
 ## DeepLearning_AI
-- [Convolutional Neural Networks  Course 4 of the Deep Learning Specialization](./DeepLearning_AI/Convolutional_Neural_Networks__Course_4_of_the_Deep_Learning_Specialization.md)
-- [Improving Deep Neural Networks  Hyperparameter Tuning Regularization and Optimization  Course 2 of the Deep Learning Specialization](./DeepLearning_AI/Improving_Deep_Neural_Networks__Hyperparameter_Tuning_Regularization_and_Optimization__Course_2_of_the_Deep_Learning_Specialization.md)
-- [Neural Networks and Deep Learning  Course 1 of the Deep Learning Specialization](./DeepLearning_AI/Neural_Networks_and_Deep_Learning__Course_1_of_the_Deep_Learning_Specialization.md)
-- [Sequence Models  Course 5 of the Deep Learning Specialization](./DeepLearning_AI/Sequence_Models__Course_5_of_the_Deep_Learning_Specialization.md)
-- [Structuring Machine Learning Projects  Course 3 of the Deep Learning Specialization](./DeepLearning_AI/Structuring_Machine_Learning_Projects__Course_3_of_the_Deep_Learning_Specialization.md)
+
+
+### The_Deep_Learning_Specialization
+
+- [1 Neural Networks and Deep Learning](./DeepLearning_AI/The_Deep_Learning_Specialization/1_Neural_Networks_and_Deep_Learning.md)
+- [2 Improving Deep Neural Networks  Hyperparameter Tuning Regularization and Optimization](./DeepLearning_AI/The_Deep_Learning_Specialization/2_Improving_Deep_Neural_Networks__Hyperparameter_Tuning_Regularization_and_Optimization.md)
+- [3 Structuring Machine Learning Projects](./DeepLearning_AI/The_Deep_Learning_Specialization/3_Structuring_Machine_Learning_Projects.md)
+- [4 Convolutional Neural Networks](./DeepLearning_AI/The_Deep_Learning_Specialization/4_Convolutional_Neural_Networks.md)
+- [5 Sequence Models](./DeepLearning_AI/The_Deep_Learning_Specialization/5_Sequence_Models.md)
+
 ## MIT
+
 - [18 01 Single Variable Calculus](./MIT/18_01_Single_Variable_Calculus.md)
 - [18 02SC Homework Help for Multivariable Calculus](./MIT/18_02SC_Homework_Help_for_Multivariable_Calculus.md)
 - [18 06  Linear Algebra  Spring 2005](./MIT/18_06__Linear_Algebra__Spring_2005.md)
 - [Missing Semester IAP 2020](./MIT/Missing_Semester_IAP_2020.md)
+
 ## Stanford
+
+- [cs107 Programming Paradigms](./Stanford/cs107_Programming_Paradigms.md)
 - [CS110 Principles of Computer Systems Spring 2019](./Stanford/CS110_Principles_of_Computer_Systems_Spring_2019.md)
 - [CS231n Convolutional Neural Networks for Visual Recognition](./Stanford/CS231n_Convolutional_Neural_Networks_for_Visual_Recognition.md)
 - [Stanford CS224N Natural Language Processing with Deep Learning  Winter 2021](./Stanford/Stanford_CS224N_Natural_Language_Processing_with_Deep_Learning__Winter_2021.md)
-- [cs107 Programming Paradigms](./Stanford/cs107_Programming_Paradigms.md)
