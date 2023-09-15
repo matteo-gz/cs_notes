@@ -47,4 +47,5 @@
 
 ## UCB
 
+- [CS61C  Great Ideas in Computer Architecture](./UCB/CS61C__Great_Ideas_in_Computer_Architecture.md)
 - [UCB CS70   discrete Math and probability theory](./UCB/UCB_CS70___discrete_Math_and_probability_theory.md)
