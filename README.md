@@ -8,10 +8,11 @@
 - [Structuring Machine Learning Projects  Course 3 of the Deep Learning Specialization](./DeepLearning_AI/Structuring_Machine_Learning_Projects__Course_3_of_the_Deep_Learning_Specialization.md)
 ## MIT
 - [18 01 Single Variable Calculus](./MIT/18_01_Single_Variable_Calculus.md)
+- [18 02SC Homework Help for Multivariable Calculus](./MIT/18_02SC_Homework_Help_for_Multivariable_Calculus.md)
 - [18 06  Linear Algebra  Spring 2005](./MIT/18_06__Linear_Algebra__Spring_2005.md)
 - [Missing Semester IAP 2020](./MIT/Missing_Semester_IAP_2020.md)
 ## Stanford
+- [cs107 Programming Paradigms](./Stanford/cs107_Programming_Paradigms.md)
 - [CS110 Principles of Computer Systems Spring 2019](./Stanford/CS110_Principles_of_Computer_Systems_Spring_2019.md)
 - [CS231n Convolutional Neural Networks for Visual Recognition](./Stanford/CS231n_Convolutional_Neural_Networks_for_Visual_Recognition.md)
 - [Stanford CS224N Natural Language Processing with Deep Learning  Winter 2021](./Stanford/Stanford_CS224N_Natural_Language_Processing_with_Deep_Learning__Winter_2021.md)
-- [cs107 Programming Paradigms](./Stanford/cs107_Programming_Paradigms.md)
