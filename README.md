@@ -24,6 +24,7 @@
 - [18 01 Single Variable Calculus](./MIT/18_01_Single_Variable_Calculus.md)
 - [18 02SC Homework Help for Multivariable Calculus](./MIT/18_02SC_Homework_Help_for_Multivariable_Calculus.md)
 - [18 06  Linear Algebra  Spring 2005](./MIT/18_06__Linear_Algebra__Spring_2005.md)
+- [6 S081 Operating System Engineering](./MIT/6_S081_Operating_System_Engineering.md)
 - [Missing Semester IAP 2020](./MIT/Missing_Semester_IAP_2020.md)
 
 ## Stanford
