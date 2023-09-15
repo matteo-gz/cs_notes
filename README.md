@@ -2,6 +2,7 @@
 
 ## CMU
 
+- [15-213 15-513 Introduction to Computer Systems](./CMU/15-213_15-513_Introduction_to_Computer_Systems.md)
 - [15 418 Parallel Computer Architecture and Programming 2016 SP](./CMU/15_418_Parallel_Computer_Architecture_and_Programming_2016_SP.md)
 
 ## CrashCourse
@@ -19,13 +20,23 @@
 - [4 Convolutional Neural Networks](./DeepLearning_AI/The_Deep_Learning_Specialization/4_Convolutional_Neural_Networks.md)
 - [5 Sequence Models](./DeepLearning_AI/The_Deep_Learning_Specialization/5_Sequence_Models.md)
 
+## HUJI
+
+- [Nand To Tetris 1](./HUJI/Nand_To_Tetris_1.md)
+- [Nand To Tetris 2](./HUJI/Nand_To_Tetris_2.md)
+
 ## MIT
 
 - [18 01 Single Variable Calculus](./MIT/18_01_Single_Variable_Calculus.md)
 - [18 02SC Homework Help for Multivariable Calculus](./MIT/18_02SC_Homework_Help_for_Multivariable_Calculus.md)
 - [18 06  Linear Algebra  Spring 2005](./MIT/18_06__Linear_Algebra__Spring_2005.md)
 - [6 S081 Operating System Engineering](./MIT/6_S081_Operating_System_Engineering.md)
+- [IAP 2023](./MIT/IAP_2023.md)
 - [Missing Semester IAP 2020](./MIT/Missing_Semester_IAP_2020.md)
+
+## other
+
+- [Algorithms Robert Sedgewick](./other/Algorithms_Robert_Sedgewick.md)
 
 ## Stanford
 
@@ -33,3 +44,7 @@
 - [CS110 Principles of Computer Systems Spring 2019](./Stanford/CS110_Principles_of_Computer_Systems_Spring_2019.md)
 - [CS231n Convolutional Neural Networks for Visual Recognition](./Stanford/CS231n_Convolutional_Neural_Networks_for_Visual_Recognition.md)
 - [Stanford CS224N Natural Language Processing with Deep Learning  Winter 2021](./Stanford/Stanford_CS224N_Natural_Language_Processing_with_Deep_Learning__Winter_2021.md)
+
+## UCB
+
+- [UCB CS70   discrete Math and probability theory](./UCB/UCB_CS70___discrete_Math_and_probability_theory.md)
