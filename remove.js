@@ -5,4 +5,5 @@ newStr = newStr.replace(/\(/g, "_");
 newStr = newStr.replace(/\)/g, "_");
 newStr = newStr.replace(/\//g, "_");
 newStr = newStr.replace(/\'/g, "_");
+newStr = newStr.replace(/\,/g, "_");
 console.log(newStr);
