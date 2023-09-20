@@ -4,5 +4,9 @@
   },
   "line-length": false,
   "fenced-code-language":false,
-  "no-inline-html":false
+  "no-inline-html":false,
+  "MD012": {
+  
+    "maximum": 1
+  }
   }
