@@ -1,7 +1,7 @@
 # EECS 70 Discrete mathematics and probability theory - UC Berkeley
 >
 > <https://www.youtube.com/playlist?list=PLu0nzW8Es1x0Ivn-757Za_ps090FJxOPd>
->
+
 ## 1. Lecture 1
 
 ### 1.1 开场

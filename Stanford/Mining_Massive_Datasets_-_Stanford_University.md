@@ -1,7 +1,7 @@
 # Mining Massive Datasets - Stanford University
 >
 > <https://www.youtube.com/playlist?list=PLLssT5z_DsK9JDLcT8T62VtzwyW9LNepV>
->
+
 ## 1. Lecture 1 — Distributed File Systems | Stanford University
 
 ### Coda的设计思路

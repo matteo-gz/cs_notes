@@ -2,7 +2,7 @@
 
 > <https://www.youtube.com/playlist?list=PLcQU3vbfgCc9sVAiHf5761UUApjZ3ZD3x>
 
-## CMU 15213/15513 CSAPP 深入理解计算机系统 Lecture 01  Course Overview 中英字幕
+##  Lecture 01  Course Overview 
 
 ### 数字的计算机表示
 
@@ -43,7 +43,7 @@
 
 通过深入解剖计算机系统的运行机制,帮助学生 deeper 理解程序如何在计算机上运行。
 
-## CMU 15213/15513 CSAPP 深入理解计算机系统 Lecture 02  Bits, Bytes, and Integer 中英字幕
+##  Lecture 02  Bits, Bytes, and Integer 
 
 ### 二进制表示
 
@@ -88,7 +88,7 @@ C语言支持直接对位进行运算,常用操作符包括:
 
 不能把这两种操作混为一谈,否则会导致错误。
 
-## 3. CMU 15213/15513 CSAPP 深入理解计算机系统 Lecture 03  Bits, Bytes, and Integers cont 中英字幕
+## 3.  Lecture 03  Bits, Bytes, and Integers cont 
 
 ### 无符号数加法
 
@@ -112,7 +112,7 @@ C语言支持直接对位进行运算,常用操作符包括:
 
 - 其他操作如减法、乘法等原理都类似,进行运算时只保留低w位,高位舍弃。这就是计算机中的整型算术运算规则。
 
-## 4. CMU 15213/15513 CSAPP 深入理解计算机系统 Lecture 04 Floating Point 中英字幕
+## 4.  Lecture 04 Floating Point 
 
 ### 浮点表示法
 
@@ -159,7 +159,7 @@ m × 2^e
 
 IEEE754标准统一了浮点格式,使不同平台运算结果一致。
 
-## 5. CMU 15213/15513 CSAPP 深入理解计算机系统 Lecture 05 Machine Level Programming I Basics 中英字幕
+## 5.  Lecture 05 Machine Level Programming I Basics 
 
 ### 机器级编程概述
 
@@ -183,7 +183,7 @@ X86指英特尔早期8086、286、386等微处理器系列。1980年代80386引�
 
 本次课将介绍X86指令集架构历史、 C代码如何转换为汇编与机器码、汇编语言基础知识以及通过示例学习算术运算在机器级的实现。
 
-## 6. CMU 15213/15513 CSAPP 深入理解计算机系统 Lecture 06 Machine Level Programming II Control 中英字幕
+## 6.  Lecture 06 Machine Level Programming II Control 
 
 ### 条件码和条件指令
 
@@ -225,7 +225,7 @@ x86处理器有四个1位条件标志寄存器,分别是:
 
 以上实现了机器指令级while循环的基本框架。
 
-## 7. CMU 15213/15513 CSAPP 深入理解计算机系统 Lecture 07 Machine Level Programming III Proc 中英字幕
+## 7.  Lecture 07 Machine Level Programming III Proc 
 
 ### 调用过程
 
@@ -261,7 +261,7 @@ call指令实现过程调用,跳转到过程代码执行。return指令从过程
 
 过程调用涉及控制流变迁、参数传值、本地存储分配等问题。x86架构通过栈implicit函数调用,实现高效函数接口。
 
-## 8. CMU 15213/15513 CSAPP 深入理解计算机系统 Lecture 08 Machine Level Programming IV Data 中英字幕
+## 8.  Lecture 08 Machine Level Programming IV Data 
 
 ### 数组的存储
 
@@ -295,7 +295,7 @@ call指令实现过程调用,跳转到过程代码执行。return指令从过程
 
 在机器级别,数组和结构体都只是一段连续的内存块。C编译器生成的代码负责正确分配内存和计算偏移获取各元素。这 fully 使用了指针算术的特性,让数组和结构体得以实现。
 
-## 9. CMU 15213/15513 CSAPP 深入理解计算机系统 Lecture 09 Machine Level Programming V Advanced 中英字幕
+## 9.  Lecture 09 Machine Level Programming V Advanced 
 
 ### 内存组织
 
@@ -317,7 +317,7 @@ Linux系统中,栈通常设置在地址最高的位置。栈向下增长,最大�
 
 新的攻击实验室实验将在今天午夜开放。它会要求学生利用缓冲区溢出漏洞来进行攻击。这对课程是一次重要的更新。鉴于大规模学生参与,实验过程中可能会出现各种问题,需要密切关注。实验只有一个半周的时间限制,所以尽早着手是非常重要的。
 
-## 10. CMU 15213/15513 CSAPP 深入理解计算机系统 Lecture 10 Program Optimization 中英字幕
+## 10.  Lecture 10 Program Optimization 
 
 ### 编译器优化
 
@@ -351,7 +351,7 @@ Linux系统中,栈通常设置在地址最高的位置。栈向下增长,最大�
 
 - 适度重写更简洁高效的源代码给编译器提供优化空间。
 
-## 11. CMU 15213/15513 CSAPP 深入理解计算机系统 Lecture 11 The Memory Hierarchy 中英字幕
+## 11.  Lecture 11 The Memory Hierarchy 
 
 ### 存储设备的特性
 
@@ -372,7 +372,7 @@ Linux系统中,栈通常设置在地址最高的位置。栈向下增长,最大�
 
 存储技术的特性如成本、大小、速度决定其应用场景。程序的局部性原理使CPU与不同层次存储器建立等级结构,充分利用各层存储器优点,缓解速度差异带来的性能损失。
 
-## 12. CMU 15213/15513 CSAPP 深入理解计算机系统 Lecture 12 Cache Memories 中英字幕
+## 12.  Lecture 12 Cache Memories 
 
 ### 记忆体的等级结构
 
@@ -404,7 +404,7 @@ CPU 向缓存发送地址,缓存将地址分解为块偏移、集索引和标签
 
 缓存利用局部性原理,在 CPU 中加入小容量高速缓存,缓解主存访问延迟。缓存采用固定组织结构,通过地址分解快速定位数据。读操作先从缓存查找,如果未命中则向主存请求数据。这实现了高速访问常用数据的目的。
 
-## 13. CMU 15213/15513 CSAPP 深入理解计算机系统 Lecture 26 Thread Level Parallelism 中英字幕
+## 13.  Lecture 26 Thread Level Parallelism 
 
 ### 一. 多核处理器结构
 
@@ -434,7 +434,7 @@ CPU 向缓存发送地址,缓存将地址分解为块偏移、集索引和标签
 
 这个例子理论上可以发挥多核系统并行计算能力,但对实际性能提升贡献有限。它仅用于演示多线程并行思想。
 
-## 14. CMU 15213/15513 CSAPP 深入理解计算机系统 Lecture 13 Linking 中英字幕
+## 14.  Lecture 13 Linking 
 
 ### 模块化与分离编译
 
@@ -468,7 +468,7 @@ CPU 向缓存发送地址,缓存将地址分解为块偏移、集索引和标签
 
 所有对象文件都采用ELF结构,包含头部信息和定义各种结构如代码、数据等节的结构。
 
-## 15. CMU 15213/15513 CSAPP 深入理解计算机系统 Lecture 14 Exceptional Control Flow Exception 中英字幕
+## 15.  Lecture 14 Exceptional Control Flow Exception 
 
 ### 异常控制流
 
@@ -514,7 +514,7 @@ CPU 向缓存发送地址,缓存将地址分解为块偏移、集索引和标签
 
 异常机制实现了系统在各个层面响应状态变更的异常控制流。
 
-## 16. CMU 15213/15513 CSAPP 深入理解计算机系统 Lecture 15 Exceptional Control Flow Signals and Nonlocal Jumps 中英字幕
+## 16.  Lecture 15 Exceptional Control Flow Signals and Nonlocal Jumps 
 
 ### 进程的创建方式
 
@@ -544,7 +544,7 @@ SIGINT:控制台发送中断信号,如Ctrl+C,默认终止进程。SIGKILL:强制
 
 通过setjmp和longjmp函数,C程序可以实现类似异常的非局部跳转功能。我们不详细介绍它,有兴趣的同学可以参考课件和教材。
 
-## 17. CMU 15213/15513 CSAPP 深入理解计算机系统 Lecture 16 系统级别输入输出
+## 17.  Lecture 16 系统级别输入输出
 
 ### 文件
 
@@ -577,7 +577,7 @@ RIO(Robust I/O)库提供更高可靠性的输入输出功能。它封装了低�
 
 FUTURE 课程后期的网络代理小工程会使用到RIO库。学习本节内容有助于理解系统编程模型与接口。
 
-## 18. CMU 15213/15513 CSAPP 深入理解计算机系统 Lecture 17 虚拟内存概念 中英字幕
+## 18.  Lecture 17 虚拟内存概念 
 
 ### 一、虚拟内存概述
 
@@ -619,7 +619,7 @@ FUTURE 课程后期的网络代理小工程会使用到RIO库。学习本节内�
 
 如此,利用局部性原理,可以高效利用有限的主存资源。
 
-## 19. CMU 15213/15513 CSAPP 深入理解计算机系统 Lecture 18 Virtual Memory Systems 中英字幕
+## 19.  Lecture 18 Virtual Memory Systems 
 
 ### 虚拟存储系统
 
@@ -652,7 +652,7 @@ FUTURE 课程后期的网络代理小工程会使用到RIO库。学习本节内�
 
 以上两个例子详细说明了地址翻译的工作流程。
 
-## 20. CMU 15213/15513 CSAPP 深入理解计算机系统 Lecture 19 动态内存分配基本概念 中英字幕
+## 20.  Lecture 19 动态内存分配基本概念 
 
 ### 动态内存分配概念
 
@@ -680,7 +680,7 @@ FUTURE 课程后期的网络代理小工程会使用到RIO库。学习本节内�
 
 使用空闲列表跟踪可用块可以提高分配效率。同时要考虑内碎片问题,多次分配释放可能导致许多小块,降低利用率。高效的内存分配器需要在速度和利用率上取得平衡。
 
-## 21. CMU 15213/15513 CSAPP 深入理解计算机系统 Lecture 20 动态内存分配高级概念 中英字幕
+## 21.  Lecture 20 动态内存分配高级概念 
 
 ### 显式空闲块列表
 
@@ -716,7 +716,7 @@ uk取所有历史请求的最大总负载块与当前堆大小的比值,用来�
 
 本节介绍了用显式双链表实现更高效的空闲块管理,以及利用峰值内存利用率uk来评估分配效率,并简要讨论了如何提高缓存局部性和利用程序使用提示来优化分配。
 
-## 22. CMU 15213/15513 CSAPP 深入理解计算机系统 Lecture 21 Network Programming Part 1 中英字幕
+## 22.  Lecture 21 Network Programming Part 1 
 
 ### 客服模式
 
@@ -738,7 +738,7 @@ uk取所有历史请求的最大总负载块与当前堆大小的比值,用来�
 
 因特网指的是一个网络相互连接形成的更大网络结构。为了让各种不同系统互相通信,必须采用公认的网络协议。协议规定了消息格式、传输机制、错误处理等规则,使得任何遵守该协议的系统都能在同一网络结构中运行。网络协议的标准化实现了不同系统之间的交互。
 
-## 23. CMU 15213/15513 CSAPP 深入理解计算机系统 Lecture 22  Network Programming Part II 中英字幕
+## 23.  Lecture 22  Network Programming Part II 
 
 ### 域名与IP地址转换
 
@@ -771,7 +771,7 @@ hints可以指定条件,如是否支持IPV6。结果链表每个节点是struct 
 
 本节主要介绍了如何通过修改Host info程序支持IPv4和IPv6地址,利用getaddrinfo()统一接口实现域名到地址的转换。getaddrinfo()可以根据输入条件返回符合条件的所有结构,支持同时查找IPv4和IPv6地址。程序需要释放结果链表内存。
 
-## 24. CMU 15213/15513 CSAPP 深入理解计算机系统 Lecture 23  并发编程 中英字幕
+## 24.  Lecture 23  并发编程 
 
 ### 介绍并发
 
@@ -819,7 +819,7 @@ hints可以指定条件,如是否支持IPV6。结果链表每个节点是struct 
 
 总之,理解并发仍然很困难,但我们会学习一些原则来正确地使用它。服务器设计是一个很好的用例,可以帮助我们理解应用级并发的设计思路。
 
-## 25. CMU 15213/15513 CSAPP 深入理解计算机系统 Lecture 24 Synchronization Basics 中英字幕
+## 25.  Lecture 24 Synchronization Basics 
 
 ### 线程共享与数据结构
 
@@ -842,7 +842,7 @@ hints可以指定条件,如是否支持IPV6。结果链表每个节点是struct 
 - 示例代码中,主线程指针指向局部变量消息数组,线程访问主线程栈区变量,这是不好的编程习惯。
 - 静态局部计数变量只有一个实例。
 
-## 26. CMU 15213/15513 CSAPP 深入理解计算机系统 Lecture 25 同步机制高级内容 中英字幕
+## 26.  Lecture 25 同步机制高级内容 
 
 ### 同步机制复习
 

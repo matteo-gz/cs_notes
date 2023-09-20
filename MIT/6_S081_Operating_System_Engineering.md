@@ -2,7 +2,7 @@
 # MIT 6.S081: Operating System Engineering
 
 > <https://www.youtube.com/playlist?list=PLTsf9UeqkReZHXWY9yJvTwLJWYYPcKEqK>
->
+
 ## 1. 6 S081 Fall 2020 Lecture 1 Introduction and Examples
 
 ### 1.1 课程简介

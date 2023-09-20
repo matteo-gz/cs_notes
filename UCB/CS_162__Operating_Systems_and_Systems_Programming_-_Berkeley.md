@@ -1,7 +1,7 @@
 # CS 162: Operating Systems and Systems Programming - Berkeley
 >
 > <https://www.youtube.com/playlist?list=PLF2K2xZjNEf97A_uBCwEl61sdxWVP7VWC>
->
+
 ## 1. CS162 Lecture 1: What is an Operating System?
 
 ### 1.1 操作系统的基本概念

@@ -1,7 +1,7 @@
 # Stanford CS229: Machine Learning
 >
 > <https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU>
->
+
 ## 1. Stanford CS229: Machine Learning Course, Lecture 1 - Andrew Ng (Autumn 2018)
 
 ### 机器学习简介

@@ -1,7 +1,7 @@
 # MIT 6.006 Introduction to Algorithms, Spring 2020
 >
 > <https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY>
->
+
 ## 1. Algorithms and Computation
 
 ### 1.1 计算问题定义

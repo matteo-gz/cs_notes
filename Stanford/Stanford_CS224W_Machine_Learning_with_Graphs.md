@@ -1,7 +1,7 @@
 # Stanford CS224W Machine Learning with Graphs
 >
 > <https://www.youtube.com/playlist?list=PL-myaKI4DslVPIos0HopgT8SjOn7HLJw8>
->
+
 ## 1. 1. Introduction; Structure of Graphs (Sep 24, 2019)
 
 ### 1.1 图的基本概念

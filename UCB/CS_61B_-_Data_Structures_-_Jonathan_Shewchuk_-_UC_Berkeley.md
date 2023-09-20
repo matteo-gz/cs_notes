@@ -1,7 +1,7 @@
 # CS 61B - Data Structures - Jonathan Shewchuk - UC Berkeley
 >
 > <https://www.youtube.com/playlist?list=PLu0nzW8Es1x3TmpwQRLMQwCtulEd43ZY8>
->
+
 ## 1. Lecture 1 课程概述
 
 ### 1.1 课程介绍

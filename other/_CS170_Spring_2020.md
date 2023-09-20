@@ -1,7 +1,7 @@
 # CS170 Spring 2020
 >
 > <https://www.youtube.com/playlist?list=PLkFD6_40KJIyKLUW_4cm44mIdXSUpZry3>
->
+
 ## 1. CS170 1/21/20
 
 ### 1.1 算法介绍

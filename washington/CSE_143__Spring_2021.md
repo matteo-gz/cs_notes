@@ -1,7 +1,7 @@
 # CSE 143, Spring 2021
 >
 > <https://www.youtube.com/playlist?list=PLMnqwkW7oW7EIbAYvuMx-he6AnPK6GYR0>
->
+
 ## 1. CSE 143, Spring 2021 - Lecture 1 on 3/29/2021 (Mon)
 
 ### 1. 课程介绍

@@ -1,7 +1,7 @@
 # CS106B, Programming Abstraction in C++
 >
 > <https://www.youtube.com/playlist?list=PLoCMsyE1cvdWiqgyzwAz_uGLSHsuYZlMX>
->
+
 ## 1. 【Lecture 01】CS106B, 编程抽象与C++课程简介 Win 2018
 
 ### 1.1 课程介绍

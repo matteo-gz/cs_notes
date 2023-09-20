@@ -1,7 +1,7 @@
 # CS 285: Deep Reinforcement Learning Fall 2022 (UC Berkeley)
 >
 > <https://www.youtube.com/playlist?list=PL_iWQOsE6TfX7MaC6C3HcdOf1g337dlC9>
->
+
 ## 1. CS 285: Lecture 1, Part 1
 
 ### 1.1 强化学习概述

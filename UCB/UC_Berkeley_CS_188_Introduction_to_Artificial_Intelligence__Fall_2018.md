@@ -1,7 +1,7 @@
 # UC Berkeley CS 188 Introduction to Artificial Intelligence, Fall 2018
 >
 > <https://www.youtube.com/playlist?list=PLsOUugYMBBJENfZ3XAToMsg44W7LeUVhF>
->
+
 ## 1. COMPSCI 188 - 2018-08-23 - 人工智能介绍
 
 ### 1.1 课程简介

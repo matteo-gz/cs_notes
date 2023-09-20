@@ -1,7 +1,7 @@
 # MIT 6.003 Signals and Systems, Fall 2011
 >
 > <https://www.youtube.com/playlist?list=PLUl4u3cNGP61kdPAOC7CzFjJZ8f1eMUxs>
->
+
 ## 1. Signals and Systems
 
 ### 1.1 信号类型

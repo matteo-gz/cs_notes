@@ -1,7 +1,7 @@
 # Deep Learning for Computer Vision (UMich EECS 498-007)
 >
 > <https://www.youtube.com/playlist?list=PLLhQgjrONLVFP1E7p2jWMMeM2FWUf2Qc7>
->
+
 ## 1. Lecture 1: Introduction to Deep Learning for Computer Vision (UMich EECS 498-007)
 
 ### 1.1 机器视觉简介

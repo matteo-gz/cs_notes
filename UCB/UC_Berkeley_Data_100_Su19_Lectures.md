@@ -1,7 +1,7 @@
 # UC Berkeley Data 100 Su19 Lectures
 >
 > <https://www.youtube.com/playlist?list=PLPHXc20GewP8J56CisONS_mFZWZAfa7jR>
->
+
 ## 1. Lecture 01 (Data Science Lifecycle, Study Design) - Data 100 Su19
 
 ### 数据爆炸

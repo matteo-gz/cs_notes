@@ -1,7 +1,7 @@
 # CS61C  Great Ideas in Computer Architecture
 >
 > <https://www.youtube.com/playlist?list=PL0j-r-omG7i0-mnsxN5T4UcVS1Di0isqf>
->
+
 ## 1. [CS61C FA20] Weekly Lecture 01.LIVE - Great Ideas in Computer Architecture, Intro
 
 ### 计算机组成概述

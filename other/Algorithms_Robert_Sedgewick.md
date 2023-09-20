@@ -1,7 +1,7 @@
 # Algorithms Robert Sedgewick
 >
 > <https://www.youtube.com/playlist?list=PLRdD1c6QbAqJn0606RlOR6T3yUqFWKwmX>
->
+
 ## 1. 01 1  Course Introduction
 
 这节课是关于算法开发在线课程的简介。讲师Bob Sedgewick和Kevin Wayne将于普林斯顿大学一起开设这门课程。

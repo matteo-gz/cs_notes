@@ -1,7 +1,7 @@
 # UC Berkeley CS186 (Intro to DB Systems) Playlist
 >
 > <https://www.youtube.com/playlist?list=PLYp4IGUhNFmw8USiYMJvCUjZe79fvyYge>
->
+
 ## 1. Lecture 1 Part 1 介绍与为什么
 
 ### 一、课程概述
