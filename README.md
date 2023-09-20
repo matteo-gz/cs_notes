@@ -89,7 +89,7 @@
 
 - [CS61C  Great Ideas in Computer Architecture](./UCB/CS61C__Great_Ideas_in_Computer_Architecture.md)
 - [CS 162  Operating Systems and Systems Programming - Berkeley](./UCB/CS_162__Operating_Systems_and_Systems_Programming_-_Berkeley.md)
-- [CS 285  Deep Reinforcement Learning Fall 2022  UC Berkeley ](./UCB/CS_285__Deep_Reinforcement_Learning_Fall_2022__UC_Berkeley_.md)
+- [CS 285  Deep Reinforcement Learning Fall 2022  UC Berkeley](./UCB/CS_285__Deep_Reinforcement_Learning_Fall_2022__UC_Berkeley.md)
 - [CS 61B - Data Structures - Jonathan Shewchuk - UC Berkeley](./UCB/CS_61B_-_Data_Structures_-_Jonathan_Shewchuk_-_UC_Berkeley.md)
 - [EECS 20N - Structure and Interpretation of Signals and Systems - Babak Ayazifar - UC Berkeley](./UCB/EECS_20N_-_Structure_and_Interpretation_of_Signals_and_Systems_-_Babak_Ayazifar_-_UC_Berkeley.md)
 - [EECS 70 Discrete mathematics and probability theory](./UCB/EECS_70_Discrete_mathematics_and_probability_theory.md)
