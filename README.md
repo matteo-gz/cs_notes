@@ -5,15 +5,15 @@
 - [ASU CSE365 - Fall 2022](./ASU/ASU_CSE365_-_Fall_2022.md)
 - [ASU CSE466 - Fall 2021](./ASU/ASU_CSE466_-_Fall_2021.md)
 
-## Cambridge
-
-- [Information Theory  Pattern Recognition  and Neural Networks](./Cambridge/Information_Theory__Pattern_Recognition__and_Neural_Networks.md)
-
 ## CMU
 
 - [15-213 15-513 Introduction to Computer Systems](./CMU/15-213_15-513_Introduction_to_Computer_Systems.md)
 - [15 418 Parallel Computer Architecture and Programming 2016 SP](./CMU/15_418_Parallel_Computer_Architecture_and_Programming_2016_SP.md)
 - [CMU Intro to Database Systems  15-445 645 Fall 2022](./CMU/CMU_Intro_to_Database_Systems__15-445_645_Fall_2022.md)
+
+## Cambridge
+
+- [Information Theory  Pattern Recognition  and Neural Networks](./Cambridge/Information_Theory__Pattern_Recognition__and_Neural_Networks.md)
 
 ## CrashCourse
 
@@ -31,14 +31,14 @@
 - [4 Convolutional Neural Networks](./DeepLearning_AI/The_Deep_Learning_Specialization/4_Convolutional_Neural_Networks.md)
 - [5 Sequence Models](./DeepLearning_AI/The_Deep_Learning_Specialization/5_Sequence_Models.md)
 
-## Harvard
-
-- [CS50 s Introduction to Artificial Intelligence with Python 2023](./Harvard/CS50_s_Introduction_to_Artificial_Intelligence_with_Python_2023.md)
-
 ## HUJI
 
 - [Nand To Tetris 1](./HUJI/Nand_To_Tetris_1.md)
 - [Nand To Tetris 2](./HUJI/Nand_To_Tetris_2.md)
+
+## Harvard
+
+- [CS50 s Introduction to Artificial Intelligence with Python 2023](./Harvard/CS50_s_Introduction_to_Artificial_Intelligence_with_Python_2023.md)
 
 ## Khan
 
@@ -54,36 +54,28 @@
 - [6 S081 Operating System Engineering](./MIT/6_S081_Operating_System_Engineering.md)
 - [IAP 2023](./MIT/IAP_2023.md)
 - [Information Theory  Pattern Recognition  and Neural Networks](./MIT/Information_Theory__Pattern_Recognition__and_Neural_Networks.md)
-- [Missing Semester IAP 2020](./MIT/Missing_Semester_IAP_2020.md)
 - [MIT 18 03SC Differential Equations  Fall 2011](./MIT/MIT_18_03SC_Differential_Equations__Fall_2011.md)
 - [MIT 6 003 Signals and Systems  Fall 2011](./MIT/MIT_6_003_Signals_and_Systems__Fall_2011.md)
 - [MIT 6 006 Introduction to Algorithms  Spring 2020](./MIT/MIT_6_006_Introduction_to_Algorithms__Spring_2020.md)
 - [MIT 6 033 Computer System Engineering  Spring 2005](./MIT/MIT_6_033_Computer_System_Engineering__Spring_2005.md)
 - [MIT 6 046J Design and Analysis of Algorithms  Spring 2015](./MIT/MIT_6_046J_Design_and_Analysis_of_Algorithms__Spring_2015.md)
 - [MIT 6 824 Distributed Systems  Spring 2020 ](./MIT/MIT_6_824_Distributed_Systems__Spring_2020_.md)
-- [numerical analysis](./MIT/numerical_analysis.md)
+- [Missing Semester IAP 2020](./MIT/Missing_Semester_IAP_2020.md)
 - [Qiqi Wang-Numerical Methods MIT](./MIT/Qiqi_Wang-Numerical_Methods_MIT.md)
-
-## other
-
-- [Algorithms Robert Sedgewick](./other/Algorithms_Robert_Sedgewick.md)
-- [Cryptography Lecture Series](./other/Cryptography_Lecture_Series.md)
-- [CS106B  Programming Abstraction in CPP](./other/CS106B__Programming_Abstraction_in_CPP.md)
-- [Deep Learning for Computer Vision  UMich EECS 498-007 ](./other/Deep_Learning_for_Computer_Vision__UMich_EECS_498-007_.md)
-- [ CS170 Spring 2020](./other/_CS170_Spring_2020.md)
+- [numerical analysis](./MIT/numerical_analysis.md)
 
 ## Stanford
 
+- [CS110 Principles of Computer Systems Spring 2019](./Stanford/CS110_Principles_of_Computer_Systems_Spring_2019.md)
+- [CS231n Convolutional Neural Networks for Visual Recognition](./Stanford/CS231n_Convolutional_Neural_Networks_for_Visual_Recognition.md)
 - [Convex Optimization I](./Stanford/Convex_Optimization_I.md)
 - [Convex Optimization II](./Stanford/Convex_Optimization_II.md)
-- [cs107 Programming Paradigms](./Stanford/cs107_Programming_Paradigms.md)
-- [CS110 Principles of Computer Systems Spring 2019](./Stanford/CS110_Principles_of_Computer_Systems_Spring_2019.md)
-- [cs144 Introduction to Computer Networking](./Stanford/cs144_Introduction_to_Computer_Networking.md)
-- [CS231n Convolutional Neural Networks for Visual Recognition](./Stanford/CS231n_Convolutional_Neural_Networks_for_Visual_Recognition.md)
 - [Mining Massive Datasets - Stanford University](./Stanford/Mining_Massive_Datasets_-_Stanford_University.md)
 - [Stanford CS224N Natural Language Processing with Deep Learning  Winter 2021](./Stanford/Stanford_CS224N_Natural_Language_Processing_with_Deep_Learning__Winter_2021.md)
 - [Stanford CS224W Machine Learning with Graphs](./Stanford/Stanford_CS224W_Machine_Learning_with_Graphs.md)
 - [ Stanford CS229  Machine Learning](./Stanford/_Stanford_CS229__Machine_Learning.md)
+- [cs107 Programming Paradigms](./Stanford/cs107_Programming_Paradigms.md)
+- [cs144 Introduction to Computer Networking](./Stanford/cs144_Introduction_to_Computer_Networking.md)
 
 ## UCB
 
@@ -98,6 +90,14 @@
 - [UC Berkeley CS186  Intro to DB Systems  Playlist](./UCB/UC_Berkeley_CS186__Intro_to_DB_Systems__Playlist.md)
 - [UC Berkeley CS 188 Introduction to Artificial Intelligence  Fall 2018](./UCB/UC_Berkeley_CS_188_Introduction_to_Artificial_Intelligence__Fall_2018.md)
 - [UC Berkeley Data 100 Su19 Lectures](./UCB/UC_Berkeley_Data_100_Su19_Lectures.md)
+
+## other
+
+- [Algorithms Robert Sedgewick](./other/Algorithms_Robert_Sedgewick.md)
+- [CS106B  Programming Abstraction in CPP](./other/CS106B__Programming_Abstraction_in_CPP.md)
+- [Cryptography Lecture Series](./other/Cryptography_Lecture_Series.md)
+- [Deep Learning for Computer Vision  UMich EECS 498-007 ](./other/Deep_Learning_for_Computer_Vision__UMich_EECS_498-007_.md)
+- [ CS170 Spring 2020](./other/_CS170_Spring_2020.md)
 
 ## washington
 
