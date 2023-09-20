@@ -694,7 +694,6 @@ Ping命令使用ICMP回显请求(类型8代码0)和回显应答(类型0代码0),
 
 Traceroute通过设置IP数据报的TTL字段来识别网络路径上的路由器。它发送UDP数据报,TTL设置为1,首跳路由器回送TTL耗尽报告。Traceroute重复增加TTL,逐步识别路径上的全部路由器。
 
-以上内容系根据视频字幕详细总结网络知识,去除主观观点,语言流畅简要,内容完整无误。
 
 ## 27. 英字【计算机网络导论】斯坦福大学 Introduction to Computer Networking CS 144 pn27 p27 2 4 End to End Principle 64
 
@@ -716,7 +715,6 @@ TCP提供可靠字节流服务,但不完美,有可能传输错误数据。因此
 
 强末端到末端原则强调网络只负责高效灵活地传输数据报,其他功能由边缘完成,为网络设计带来更大灵活性。
 
-以上内容系根据视频字幕详细总结网络知识原理,去除主观观点,语言简明流畅,内容完整无误。
 
 ## 28. 英字【计算机网络导论】斯坦福大学 Introduction to Computer Networking CS 144 pn28 p28 2 5   Error detection 64
 
@@ -2092,7 +2090,6 @@ DNS系统中主要记录种类包括:
 - CNAME记录表示别名,同一域名不可同时存在其他记录
 - MX查询会自动追加邮件服务器地址A记录
 
-以上就是视频字幕中关于DNS的主要知识点总结。
 
 ## 82. 英字【计算机网络导论】斯坦福大学 Introduction to Computer Networking CS 144 pn82 p82 5 11   DHCP 64
 
