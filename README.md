@@ -99,6 +99,7 @@
 - [CS170 Spring 2020](./other/CS170_Spring_2020.md)
 - [Cryptography Lecture Series](./other/Cryptography_Lecture_Series.md)
 - [Deep Learning for Computer Vision  UMich EECS 498-007 ](./other/Deep_Learning_for_Computer_Vision__UMich_EECS_498-007_.md)
+- [programming links](./other/programming_links.md)
 
 ## washington
 
