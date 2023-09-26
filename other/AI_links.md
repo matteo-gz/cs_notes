@@ -41,6 +41,15 @@
 - [towardsdatascience.How Transformers Work](https://towardsdatascience.com/transformers-141e32e69591)
 - [huggingface.lora](https://huggingface.co/blog/lora) 关于LoRA介绍
 - [图解Stable Diffusion](https://jalammar.github.io/illustrated-stable-diffusion/)
+- [介绍Graph Neural Networks](https://distill.pub/2021/gnn-intro/)
+- [Image Classification on ImageNet](https://paperswithcode.com/sota/image-classification-on-imagenet) 图像分类任务排名 [paperswithcode](https://paperswithcode.com/)
+- [How does ChatGPT work?](https://blog.bytebytego.com/p/ep-44-how-does-chatgpt-work?utm_source=%2Fsearch%2Fchatgpt&utm_medium=reader2) ChatGPT工作原理 [bytebytego](https://blog.bytebytego.com/)
+- [brain maps](https://www.thehighestofthemountains.org/brainmaps.php)
+  
+#### 机器学习笔记
+- [csdn机器学习笔记](https://blog.csdn.net/m0_37867091/category_9817315.html)
+- [语雀机器学习笔记](https://www.yuque.com/river_chen/we8uxh/wrbzgy)
+- [heywhale](https://www.heywhale.com/mw/project/5e0f01282823a10036b280a7)
 
 ### Github
 
@@ -73,3 +82,5 @@
 ##  arxiv
 
 - [HyperNetworks](https://arxiv.org/abs/1609.09106)
+- [Understanding Diffusion Models: A Unified Perspective](https://arxiv.org/abs/2208.11970)
+- [Deep learning](https://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf)
