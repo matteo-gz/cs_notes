@@ -40,6 +40,7 @@
 - [nvidia.Transformer模型介绍](https://blogs.nvidia.com/blog/2022/03/25/what-is-a-transformer-model/)
 - [towardsdatascience.How Transformers Work](https://towardsdatascience.com/transformers-141e32e69591)
 - [huggingface.lora](https://huggingface.co/blog/lora) 关于LoRA介绍
+- [图解Stable Diffusion](https://jalammar.github.io/illustrated-stable-diffusion/)
 
 ### Github
 
