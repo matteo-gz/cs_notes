@@ -1,4 +1,4 @@
-const fs = require('fs');
+const fs = require('fs'); 
 let markdown = '# Computer Science notes\n'; //
 const prefixPattern = /^(\.|_)(\w+)/;
 function generateReadme(dir = '.', lv = 2) {
