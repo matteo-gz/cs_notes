@@ -28,6 +28,8 @@
 ## 算法
 
 - [算法可视化](https://algorithm-visualizer.org/)
+- [Golang 算法大全 by halfrost](https://books.halfrost.com/leetcode/)
+- [刷题思路 by labuladong](https://labuladong.github.io/algo/)
   
 ## 工具
 

@@ -84,3 +84,4 @@
 - [HyperNetworks](https://arxiv.org/abs/1609.09106)
 - [Understanding Diffusion Models: A Unified Perspective](https://arxiv.org/abs/2208.11970)
 - [Deep learning](https://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf)
+- [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
